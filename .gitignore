@@ -1,0 +1,11 @@
+# git merge tmp files
+*.orig
+
+# vim tmp files
+*.swp
+
+# OSX junk
+*.DS_Store
+
+# logs
+*.log
